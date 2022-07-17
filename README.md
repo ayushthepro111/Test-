@@ -1,3 +1,3 @@
 ## HTML TUTORIAL REPOSITORY
-*using info by the index.html \n*
-"bluestyle.css"
+*using info by the index.html*
+#bluestyle.css
