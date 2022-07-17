@@ -1,4 +1,3 @@
-## Java trial
-at 24 june 2022 
-   app.java
-complete 
+## HTML TUTORIAL REPOSITORY
+*using info by the index.html
+"bluestyle.css"
